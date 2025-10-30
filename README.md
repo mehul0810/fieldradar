@@ -71,7 +71,3 @@ Note: legacy `post_type` is accepted for direct links but the UI uses `uc_post_t
 ## License
 
 This plugin is provided as-is for convenience. Integrate into your project and adapt the behavior to your needs.
-
----
-
-If you want, I can also add a simple WP-CLI command and/or an AJAX-based paginated posts view next.
